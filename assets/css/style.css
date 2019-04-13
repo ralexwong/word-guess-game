@@ -1,0 +1,48 @@
+body {
+    background: black;
+    color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background:url(https://www.ravejungle.com/wp-content/uploads/2017/11/philadelphia-edm-scene.jpg);
+    max-width:960px;
+    margin:0 auto 0 auto;
+    text-align:center;
+    font-size: 30px;
+}
+
+.jumbotron {
+    background: black;
+    margin:0;
+}
+
+.display-4 {
+    font-family: 'Righteous', cursive;
+    font-size: 100px;
+}
+
+.display-5 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.column {
+    
+}
+
+#column-l {
+    background:black;
+    height:600px;
+    border: 2px dotted white;
+
+
+}
+
+#column-r {
+    background:black;
+    height:600px;
+    border: 2px dotted white;
+
+}
+
+
+
